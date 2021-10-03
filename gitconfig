@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = laumetmatthieu@hotmail.fr
+	name = matthieu laumet
