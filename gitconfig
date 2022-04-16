@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = laumetmatthieu@hotmail.fr
+	email = laumetmatthieu@hotmail.Fr
 	name = matthieu laumet
